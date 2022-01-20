@@ -1,0 +1,18 @@
+E:\FILL E\dataproo\dataproo\bin\Debug\dataproo.exe.config
+E:\FILL E\dataproo\dataproo\bin\Debug\dataproo.exe
+E:\FILL E\dataproo\dataproo\bin\Debug\dataproo.pdb
+E:\FILL E\dataproo\dataproo\obj\Debug\dataproo.csprojResolveAssemblyReference.cache
+E:\FILL E\dataproo\dataproo\obj\Debug\dataproo.Properties.Resources.resources
+E:\FILL E\dataproo\dataproo\obj\Debug\dataproo.csproj.GenerateResource.Cache
+E:\FILL E\dataproo\dataproo\obj\Debug\dataproo.exe
+E:\FILL E\dataproo\dataproo\obj\Debug\dataproo.pdb
+E:\dataproo\dataproo\bin\Debug\dataproo.exe.config
+E:\dataproo\dataproo\obj\Debug\dataproo.exe
+E:\dataproo\dataproo\obj\Debug\dataproo.pdb
+E:\dataproo\dataproo\obj\Debug\dataproo.csprojResolveAssemblyReference.cache
+E:\dataproo\dataproo\obj\Debug\dataproo.ft.login.resources
+E:\dataproo\dataproo\obj\Debug\dataproo.Properties.Resources.resources
+E:\dataproo\dataproo\obj\Debug\dataproo.csproj.GenerateResource.Cache
+E:\dataproo\dataproo\obj\Debug\dataproo.Form1.resources
+E:\dataproo\dataproo\bin\Debug\dataproo.exe
+E:\dataproo\dataproo\bin\Debug\dataproo.pdb
